@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BIMM99
-- 👀 I’m interested in economics, linguistics, automation and history
-- 🌱 I’m currently learning statistics and economics
+- 👀 I’m interested in economics, linguistics, automation, aeronautics and history
+- 🌱 I’m currently learning statistics and data science, before, I've studied internationale economics
 - 📫 How to reach me tandems.tacite_0r@icloud.com
